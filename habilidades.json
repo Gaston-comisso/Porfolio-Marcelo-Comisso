@@ -1,0 +1,6 @@
+{
+    "frontend": ["HTML", "CSS", "JavaScript", "WordPress", "React","Node.js"],
+    "backend": ["Python", "PHP", "MySQL", "JSON", "Git","Go", "Flask"],
+    "metodologias": ["Scrum", "XP", " Kanban"],
+    "habilidades blandas":["Comunicación efectiva","Trabajo en equipo","Resolución de problemas"]
+}

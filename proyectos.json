@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Pizzeria Argento",
+      "description": "Sistema para una pizzería donde el administrador puede iniciar sesión para cargar productos y actualizar el estado de los pedidos. Los clientes pueden hacer pedidos mediante un formulario. Incluye una base de datos con la información de los pedidos y su estado.",
+      "tecnologias": "HTML, CSS, Bootstrap, JavaScript, Flask (para el backend) y emplea una base de datos para almacenar la información.",
+      "link": "https://github.com/Gaston-comisso/PizzeriaArgento",
+      "image": "img/logo-pizza.png"
+    },
+    {
+      "title": "DengueAlerta",
+      "description": "DengueAlerta es una aplicación web diseñada para el seguimiento y gestión de casos de dengue en la región de San Carlos. La plataforma permite a los usuarios registrar nuevos casos de dengue, editar información existente y visualizar datos actualizados en una tabla interactiva.",
+      "tecnologias": "HTML, CSS, Bootstrap, JavaScript (para gráficos) y Flask (para el backend), y emplea una base de datos para almacenar la información.",
+      "link": "https://github.com/Gaston-comisso/Casos-Dengue",
+      "image": "img/dengue.png"
+    },
+    {
+      "title": "Copa América 2024",
+      "description": "Desarrollé una página informativa sobre la Copa América 2024 que permite a los usuarios ver noticias actuales, resultados de partidos y estadísticas de los 10 mejores jugadores y los 5 mejores equipos. Los usuarios también pueden votar para elegir al mejor jugador y equipo de la Copa si inician sesión.",
+      "tecnologias": "HTML, CSS, JavaScript, Bootstrap, Flask, MySQL",
+      "link": "https://github.com/Gaston-comisso/Proyecto-copaAmerica",
+      "image": "img/copa-america.png"
+    },
+    {
+      "title": "TO-DO List",
+      "description": "Una lista de tareas interactiva que permite agregar, modificar, eliminar y ordenar tareas por la hora del día. Implementada con JavaScript puro para la manipulación de tareas.",
+      "tecnologias": "HTML, CSS, JavaScript",
+      "link": "https://github.com/Gaston-comisso/TO-DO-LIST",
+      "image": "img/todo.png"
+    },
+    {
+      "title": "Agencia de Viajes",
+      "description": "Este proyecto es una simulación de una agencia de viajes con diferentes destinos. Muestra cómo manejar contenido dinámico en una página usando JavaScript para mostrar paquetes de viaje y testimonios de clientes.",
+      "tecnologias": "HTML, CSS, JavaScript",
+      "link": "https://github.com/Gaston-comisso/AgenciaViajes",
+      "image": "img/agenciaViajes.jpg"
+    },
+    {
+      "title": "Gestión de Bodega con IA",
+      "description": "Sistema de gestión de bodega que utiliza Inteligencia Artificial para predecir futuras cosechas mediante un formulario de registro. Permite a los enólogos registrar y analizar datos clave sobre la uva para optimizar la producción de vino.",
+      "tecnologias": "HTML, CSS, JavaScript, Flask, IA para predicción de datos",
+      "link": "https://github.com/Gaston-comisso/Gestion-Bodega",
+      "image": "img/gestion-bodega.jpg"
+    }
+  ]
+  
